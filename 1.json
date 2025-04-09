@@ -1,0 +1,44 @@
+{
+    "config": {
+    "TQ120": 12.7,
+    "proxyApiUrls": [
+      "http://uapi.51daili.com/unlimitedip/getip?linePoolIndex=1&packid=17&time=5&qty=1&port=1&format=txt&pid=5c3cacedb4f033663d3c7ea802cd7b70&usertype=17&uid=46362"
+    ],
+    "activeId": 22,
+    "480taskId": 142,
+    "360taskId": 141,
+    "240taskId": 140,
+    "120taskId": 139,
+    "15taskId": 138,
+    "dkhd": 6640
+  },
+  "wxpusher": {
+    "token": "AT_UTqe84MZC8wjeZ0vLnKR3AcsNicc7L4P",
+    "uids": [
+      {
+        "uid": "UID_pT7ifPmHs5ewHsdcfv9saeXCCopf",
+        "note": "总推送"
+      },
+      {
+        "uid": "UID_hlg43dTg5Ip5EfdKlmq4Dq3PSgWe",
+        "note": "他人"
+      },
+      {
+        "uid": "UID_OwUoM53pzqOsdtcsxXpRrjSVckOL",
+        "note": "自己"
+      }
+    ]
+  },
+  "phones": [
+    {
+      "number": "15632621209",
+      "note": "自己",
+      "group": "自己"
+    },
+    {
+      "number": "15554204138",
+      "note": "自己",
+      "group": "自己"
+    }
+  ]    
+}
