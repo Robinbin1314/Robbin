@@ -2,7 +2,7 @@
     "config": {
     "TQ120": 12.7,
     "proxyApiUrls": [
-      "http://uapi.51daili.com/unlimitedip/getip?linePoolIndex=1&packid=17&time=5&qty=1&port=1&format=txt&pid=5c3cacedb4f033663d3c7ea802cd7b70&usertype=17&uid=46362"
+      "http://bapi.51daili.com/white-ip/list?appkey=9EBB83092001D142DC67A560CEBCAFAD42572"
     ],
     "activeId": 22,
     "480taskId": 142,
