@@ -2,7 +2,7 @@
     "config": {
     "TQ120": 12.7,
     "proxyApiUrls": [
-    "http://bapi.51daili.com/getapi2?linePoolIndex=-1&packid=2&time=2&qty=1&port=1&format=txt&dt=1&ct=1&usertype=17&uid=42572&accessName=121846387&accessPassword=9EBB83092001D142DC67A560CEBCAFAD&skey=autoaddwhiteip"
+    "http://bapi.51daili.com/getapi2?linePoolIndex=-1&packid=2&time=2&qty=1&port=1&format=txt&dt=1&ct=1&usertype=17&uid=44395&accessName=1218463871&accessPassword=59DC31357B5DBE1AF7B00D09E9FF367B&skey=autoaddwhiteip"
     ],
     "activeId": 22,
     "480taskId": 142,
